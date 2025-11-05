@@ -1,4 +1,0 @@
-# Methodology 
-
-MD 1
-
